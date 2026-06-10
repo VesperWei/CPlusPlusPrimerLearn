@@ -1,0 +1,12 @@
+*.out
+*.o
+*.exe
+*.exe~
+a.out
+.vscode/
+.idea/
+*.swp
+*.swo
+build/
+bin/
+obj/
